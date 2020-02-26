@@ -1,0 +1,16 @@
+# Each Time you run the script on this file, new IPs will be generated
+2.168.79.215
+151.101.39.140
+153.184.104.176
+# Notice how this IP appears twice, the sanitizer will replace both lines when run.
+# Both Here... 
+184.80.157.66
+26.194.138.197
+115.77.10.81
+# And here as well...
+184.80.157.66
+# It doesnt matter where the IP is in a line of text. 
+# As long as it isn't fragmented the script will recognize it!
+# For example: 
+# My dog is an amazing 65.227.60.13 animal and there isnt anyone quite like 65.227.60.13 him
+# His name is "65.227.60.13"
